@@ -1,0 +1,50 @@
+Brexit: Customs Procedures
+
+Question
+
+14:41:00
+
+Asked by
+
+Lord Berkeley
+To ask Her Majesty’s Government what are the plans, timescale and budget of Her Majesty’s Revenue and Customs to develop and implement paper-free customs procedures for just-in-time freight between the European Union and the United Kingdom after Brexit.
+
+The Minister of State, Department for International Development (Lord Bates) (Con)
+My Lords, the Government have been clear that their priority is to ensure that international trade can move as freely and be as frictionless as possible after we depart the European customs union. Precise arrangements are a matter for negotiations. The Government recognise that many business sectors operate complex supply chains that are sensitive to administrative burdens and delays and are exploring the implementation of a technology-based solution that would allow trade to flow more smoothly across borders.
+
+Lord Berkeley (Lab)
+I am grateful to the Minister for that Answer. He will recall that a few weeks ago Monsieur Barnier told representatives of the industry that they should prepare for a cliff-edge Brexit even if that did not happen because it would be prudent to do so. I heard the same message from him earlier in the year. Is the Minister aware of 77 different examples of industry sector data that come from Customs? I have put a copy in the Library in case the Government do not have that information. Surely, alongside industry helping itself, it needs to have detailed discussions with the Government on each sector and each means of transport, particularly for the time-sensitive stuff, so that when this happens there is no hold-up. I hope the Minister can give us some confidence that that will happen.
+
+Lord Bates
+I can certainly give noble Lords that confidence. As one would expect, the Treasury and HMRC have had over 300 meetings with trade bodies and officials about preparedness. We have our own customs data service—the electronic response that we believe will be ready by January 2019 to take the strain. There is also potential for a back-up system alongside the existing chief system that is in operation. We believe that a lot of work has been done. There is a lot of work for the ports to do as well in terms of their own inventory systems. But as 99% of customs declarations are done electronically at present, there is a great opportunity for us to advance that part of the way we do business to ensure a frictionless way of transacting business going forward.
+
+Lord Bradshaw (LD)
+The logistics industry is one of the most efficient parts of our economy, mainly in road haulage but also in warehousing just-in-time distribution. Industry would be severely handicapped if supplies did not arrive at the factory gate or in the shops absolutely on time. Have the Government had detailed discussions with the Freight Transport Association, the Road Haulage Association and the ports authority to work out what would happen if things do not work as the Government hope they will?
+
+Lord Bates
+Those are exactly the types of conversation we are having. Noble Lords would expect us to have those conversations and we are having them. We have a cross-government border planning group planning for that type of evaluation. But on just-in-time, a lot of the goods come from outside the European Union area. The UK has had great success and has been a prime target for foreign direct investment into the European Union because of the efficiency and speed with which those goods are cleared. We need to ensure that that is now extended to goods coming from within the EU as well.
+
+Viscount Waverley (CB)
+My Lords, in declaring a pending declaration, is it anticipated that the UK’s system will be capable of integration into a wider, regional or global single window and of preventing fraudulent declaration of shipping data from third-party sources within global supply chains?
+
+Lord Bates
+That is a really good idea. There are some opportunities coming here. The noble Viscount will be aware that HMRC is moving to a making tax digital platform for VAT declarations. That type of joining up of the customs data with VAT will be something that could augment further trade with the rest of the world.
+
+Lord Hamilton of Epsom (Con)
+Will my noble friend confirm that the United States is a major export customer for this country with which we have no free-trade deal? There seems to be no hold-up in sending goods to America.
+
+Lord Bates
+Some 18% of our goods go to the United States. It is a very important market for us. Also, we are seeing significant investment from the United States into the UK. In the technology sector, Apple is coming here. Bloomberg is expanding its operations here, as is Facebook. There is a great opportunity for Britain to have a lead in technology and trade.
+
+Lord Davies of Oldham (Lab)
+My Lords, is the Minister aware that Parliament needs to be kept very fully informed about developments in this area? There is no way that Parliament can speak on behalf of industry and the workers in industry without a clear understanding of where the Government are at on these issues. Will he therefore recognise that there is an element of concern that the cross-border trade Bill, which is at present before the other House, may well be defined, in the way the Government have drawn it up, as a money Bill? Therefore, this House, with its expertise, will have a very limited ability to express its views on such matters.
+
+Lord Bates
+As the noble Lord will know, those are technical matters; it is officially for the Speaker in the other place to determine what is a money Bill and what is granted a certificate. On the importance of that Bill and debating it, he is certainly right. In the other place, the Treasury Select Committee and the Public Accounts Committee have been looking at and probing the system’s readiness, as they should. We published a trade White Paper, which had a tremendous amount of feedback that we have incorporated and learned from. We have also published working papers on future partnerships that we have shared with our European colleagues because we want to make sure that the borders work well together.
+
+Lord Newby (LD)
+My Lords, the Minister implied in his Answer that because additional requirements were to be dealt with online, there would be no additional cost. Those of your Lordships who have done things online find this a somewhat dubious assertion. Does he accept that for small businesses even doing business with Norway now, which is inside the customs union, involves a significant amount of additional time and that if we are not within the customs union, and certainly being outside the EU, small businesses will need to spend much more time filling in customs forms online? For many, that will make the difference between trade being viable and not viable.
+
+Lord Bates
+We have to try to reduce that. The fact that manufacturing output is now in its fastest growth period for 23 years and unemployment at its lowest level for 42 years shows that businesses—the majority of which in this country are small businesses—are doing well in this environment. This was a particular consideration of the making tax digital discussion that we had: obviously, we believe that technology does not impinge on small businesses to a degree that reduces their competitiveness. We believe technology can enhance competitiveness, not reduce it.
+
